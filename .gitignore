@@ -1,0 +1,16 @@
+build/
+build-asan/
+build-release/
+.cache/
+compile_commands.json
+tools/history_stages/
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.a
+*.dylib
+commit_schedule.md
+tools/commit_day.sh
